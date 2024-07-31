@@ -1,5 +1,5 @@
 # ML-GroupWork-1
-Group work on Supervised Learning (Linear and Polynomial Regression, Classification), Unsupervised Learning (Clustering).
+Group work on Supervised Learning (Linear and Polynomial Regression, Classification), and Unsupervised Learning (Clustering).
 
 See **IS-ML-Take-Home-Assignment-1.pdf** for tasks and instructions. See **Group_13-ML_Assignment_1.pdf** for our report.
 
